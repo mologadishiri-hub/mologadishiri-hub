@@ -1,14 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mologadishiri-hub/mologadishiri-hub/main/Data%20Analyst%20Intro.gif" width="800" alt="My Animated Introduction">
+</p>
 
 # Hi, My Name is Mologadi Shiri 👋
 
 ### Aspiring Data Analyst | Operations Analytics | Business Intelligence
 
 Turning operational data into meaningful insights that support better business decisions.
-
-[![GitHub](https://img.shields.io/badge/GitHub-mologadishiri--hub-181717?style=for-the-badge&logo=github)](https://github.com/mologadishiri-hub)
-
-</div>
 
 ---
 
