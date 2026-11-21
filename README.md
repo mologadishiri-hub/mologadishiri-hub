@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mologadi Shiri 👋
+# Hi, My Name is Mologadi Shiri 👋
 
 ### Aspiring Data Analyst | Operations Analytics | Business Intelligence
 
