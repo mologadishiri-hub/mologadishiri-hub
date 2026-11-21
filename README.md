@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./Mologadi_Introduction.svg" width="100%">
-</p>
+![My Animated Introduction](https://raw.githubusercontent.com/mologadishiri-hub/mologadishiri-hub/main/Data%20Analyst%20Intro.gif)
 
 # Hi, My Name is Mologadi Shiri 👋
 
