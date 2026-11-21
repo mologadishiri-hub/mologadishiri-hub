@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mologadishiri-hub/mologadishiri-hub/main/Data%20Analyst%20Intro.gif" width="800" alt="My Animated Introduction">
+  <img src="./Mologadi_Introduction.svg" width="100%">
 </p>
 
 # Hi, My Name is Mologadi Shiri 👋
