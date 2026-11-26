@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1200&color=2F81F7&width=900&lines=Hi,+My+Name+is+Mologadi+Shiri+%F0%9F%91%8B;Aspiring+Data+Analyst;Operations+Analytics+%7C+Business+Intelligence" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=2F81F7&width=900&lines=Hi,+My+Name+is+Mologadi+Shiri+%F0%9F%91%8B;16+Years+in+Power+Generation+Operations;Data+Analyst+in+Training;Operations+Analytics+%7C+Business+Intelligence" alt="Typing animation" />
 </p>
 
 ### Aspiring Data Analyst | Operations Analytics | Business Intelligence
