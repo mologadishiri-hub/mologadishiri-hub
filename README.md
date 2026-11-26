@@ -1,6 +1,6 @@
-![My Animated Introduction](https://raw.githubusercontent.com/mologadishiri-hub/mologadishiri-hub/main/Data%20Analyst%20Intro.gif)
-
-# Hi, My Name is Mologadi Shiri 👋
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1200&color=2F81F7&width=700&lines=Hi,+My+Name+is+Mologadi+Shiri+%F0%9F%91%8B;Aspiring+Data+Analyst;Operations+Analytics+%7C+Business+Intelligence" alt="Typing animation" />
+</p>
 
 ### Aspiring Data Analyst | Operations Analytics | Business Intelligence
 
